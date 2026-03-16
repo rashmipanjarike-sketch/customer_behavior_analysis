@@ -1,2 +1,3 @@
-# customer_behavior_analysis
-data analytics project showcasing customer behaviour analysis using python , sql and power BI to identify purchasing trends and customer patterns.
+# customer_behavior_analysis (Interactive Dashboard creation Using MS Excel)
+# Project Objective
+The goal of this project is to analyze customer shopping behavior across product categories to uncover patterns in purchasing habits, revenue distribution, customer segmentation, and subscription impact. The insights derived help businesses make data-driven decisions to improve marketing strategies, boost revenue, and enhance customer retention.
