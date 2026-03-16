@@ -15,7 +15,7 @@ The following key business questions were explored:
 7) Which products are most frequently discounted?
 8) Does shipping preference influence purchase amount?
 9) How many repeat buyers (subscribers with more than 5 purchases) exist?
-- Dashboard Interaction <a href="https://github.com/rashmipanjarike sketch/customer_behavior_analysis/blob/main/customer_behaviour_dashboard.pbix">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/rashmipanjarike-sketch/customer_behavior_analysis/blob/main/customer_behaviour_dashboard.pbix">View Dashboard</a>
 # Process
 1. Data Collection
 Loaded the raw CSV dataset containing 3,900 customer transaction records.
