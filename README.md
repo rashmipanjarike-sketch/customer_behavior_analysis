@@ -3,6 +3,7 @@
 The goal of this project is to analyze customer shopping behavior across product categories to uncover patterns in purchasing habits, revenue distribution, customer segmentation, and subscription impact. The insights derived help businesses make data-driven decisions to improve marketing strategies, boost revenue, and enhance customer retention.
 #  Dataset Used
 File: customer_shopping_behavior.csv,  3,900 records, 18 features, column descriptions table.
+- <a href="https://github.com/rashmipanjarike-sketch/customer_behavior_analysis/blob/main/customer_shopping_behavior.csv">Dataset</a> 
 #  Questions / KPIs
 The following key business questions were explored:
 1) What is the total revenue split between male and female customers?
