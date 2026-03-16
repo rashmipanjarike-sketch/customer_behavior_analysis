@@ -35,6 +35,19 @@ Built an interactive Power BI dashboard (customer_behaviour_dashboard.pbix) with
 Synthesized findings into actionable business recommendations.
 # Dashboard
 The Power BI dashboard (customer_behaviour_dashboard.pbix) includes Donut/pie chart showing male (73%) vs. female (27%) revenue split, Bar chart of revenue and sales volume across Clothing, Accessories, Footwear, and Outerwear, Ranked list of top 5 items by average review rating, Count breakdown of New, Returning, and Loyal customers, Comparison of avg spend and total revenue for subscribers vs. non-subscribers, Revenue and sales contribution by age group.
-# 
+# Project Insights
+1) Male customers dominate revenue — Males account for 73% ($157,890) of total revenue vs. 27% ($75,191) for females.
+2) Clothing is the top category — With $100K revenue and 1,800 sales, it far outperforms other categories.
+3) Accessories rank second — Generating $75K revenue across 1,200 sales.
+4) Gloves are the highest-rated product — With an average rating of 3.86, followed by Sandals (3.84) and Boots (3.82).
+5) Most customers are loyal — 3,116 out of 3,900 customers are classified as loyal, with only 83 being new.
+6) Non-subscribers drive more revenue — 2,847 non-subscribers contribute $170,436 vs. $62,645 from 1,053 subscribers.
+7) Subscription avg spend is slightly lower — Subscribers spend $59.49 on average vs. $59.87 for non-subscribers.
+8) Young Adults are the top buyers — The 27% Young Adult segment generates $45K revenue and 1,000 sales.
+9) Express shipping correlates with higher spend — Customers choosing express shipping tend to spend more per transaction.
+10) Discount-heavy products include Hats, Sneakers, and Coats — Frequent discounting may be impacting margins.
+11) 958 subscribers are high-frequency buyers — These customers made more than 5 purchases, indicating strong loyalty potential.
+#  Conclusion
+This analysis reveals that the business is largely driven by male customers, clothing purchases, and a loyal customer base. While non-subscribers make up the majority of revenue, the 958 high-frequency subscribers represent a valuable retention asset. The low new-customer count (83) signals a need for better customer acquisition strategies.
 
     
